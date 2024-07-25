@@ -1,0 +1,41 @@
+<svg width="308" height="632" viewBox="0 0 308 632" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1 54.5C1 24.9528 24.9528 1 54.5 1H253.5C283.047 1 307 24.9528 307 54.5V577.5C307 607.047 283.047 631 253.5 631H54.5C24.9528 631 1 607.047 1 577.5V54.5Z" stroke="#737373"/>
+</svg>
+<!-- {/* Navbar */}
+      {/* <nav className='w-full p-6'>
+        <div className='bg-white  flex items-center justify-between gap-2 p-6 rounded'>
+          <div className='flex items-center'>
+            <img src='devlinks-logo.png' alt='Logo' />
+          </div>
+          <div className='flex items-center space-x-8'>
+            <Link
+              href='/LinksPage'
+              className={`flex items-center space-x-2 rounded p-2 ${
+                router.pathname === "/LinksPage"
+                  ? "bg-secondary text-primary"
+                  : "text-black"
+              }`}
+            >
+              <FaLink />
+              <span>Links</span>
+            </Link>
+            <Link
+              href='/profile'
+              className={`flex items-center space-x-2 rounded p-2 ${
+                router.pathname === "/Li"
+                  ? "bg-secondary text-primary"
+                  : "text-black"
+              }`}
+            >
+              <FaUser />
+              <span>Profile Details</span>
+            </Link>
+          </div>
+          <Link
+            href='/preview'
+            className='bg-white text-primary border border-primary rounded px-4 py-2'
+          >
+            Preview
+          </Link>
+        </div>
+      </nav> */} -->
